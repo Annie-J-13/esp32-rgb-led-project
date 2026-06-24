@@ -78,6 +78,8 @@ A second issue occured when selecting the target board. At first, the incorrect 
 - Add Wi-Fi control through a web interface.
 - Synchronise multiple RBG LEDs.
 
+---
+
 ## Lessons Learned
 
 - Importance of installing the correct USB drivers for microcontroller communication.
@@ -85,10 +87,14 @@ A second issue occured when selecting the target board. At first, the incorrect 
 - Understanding that successful embedded development depends on both hardware and software configuration.
 - Developed troubleshooting and debugging skills related to development toolchains.
 
-## Demonstration
-A demonstration video of the RGB LED colour transitions is included in this repository as 'rgb_led_working.mp4'. 
+---
 
 ## Circuit photos
 ![Circuit Photo 1](images/rgb_led_setup1.jpg)
 
 ![Circuit Photo 2](images/rgb_leb_setup2.jpg)
+
+---
+
+## Demonstration
+A demonstration video of the RGB LED colour transitions is included in this repository as 'rgb_led_working.mp4'. 
